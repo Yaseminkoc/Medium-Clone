@@ -1,0 +1,35 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-blue {
+    background-color: #C4E2FF; 
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid black;
+}
+
+.start-btn {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.get-btn {   
+    background-color: black;
+    border-radius: 20px;
+}
+
+.fw {
+    color: rgba(230, 230, 230, 1);
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);;
+}
